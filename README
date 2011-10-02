@@ -1,4 +1,4 @@
-This peice of code implements a Numerical Calculator. It expects inputs like "one million and two divide two", calculates
+This peice of code implements a Numeral Calculator. It expects inputs like "one million and two divide two", calculates
 and returns the result. The program recognizes numebrs in the range of 9,999,999 to -9,999,999. The keywords recognized
 by it include "add" or "+", "divide" or "/", "subtract" or "-", and "multiply" or "*". Please note that if there is
 mistypes in the input, or unrecognized keywords are entered, the program is likely to produce wrong results.
